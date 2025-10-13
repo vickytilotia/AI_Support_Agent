@@ -1,8 +1,7 @@
 # 🧠 AI Customer Support Agent (RAG + LLM + Redis + Ticketing + Monitoring)
 
-![AI Support Agent Flow](flowchart.png)
 
-Welcome to the **AI Customer Support Agent**, a production-ready backend system that demonstrates advanced AI workflows with **Retrieval-Augmented Generation (RAG)**, LLM reasoning, caching, ticketing, and monitoring.
+Welcome to the **AI Customer Support Agent**, a production-ready backend system that demonstrates advanced AI workflows with **Retrieval-Augmented Generation (RAG)**, LLM reasoning, caching, ticketing, and monitoring. Its a customer support system that automatically answers user queries, tracks unanswered questions via a ticketing system, and provides real-time analytics through a dashboard. Demonstrates caching, context-aware responses, and monitoring to ensure reliable performance and actionable insights.
 
 ---
 
@@ -83,11 +82,10 @@ Update Analytics → Prometheus Scrapes → Grafana Visualizes
 
 | Scenario | Screenshot |
 |----------|------------|
-| Query & Answer | ![Query & Answer](screenshots/query_answer.png) |
-| Query & Answer from Cache | ![Cache Hit](screenshots/cache_hit.png) |
-| Ticket Creation | ![Ticket Created](screenshots/ticket_created.png) |
+| Query & Answer | <img width="1476" height="671" alt="query answer" src="https://github.com/user-attachments/assets/375eb78f-fb1c-423b-ad2a-0e6cbe013539" /> |
+| Query & Answer from Cache | <img width="1480" height="622" alt="query answer from cache" src="https://github.com/user-attachments/assets/e8c18027-ee6a-4873-af51-1b4c7e4e6cb6" />  |
+| Ticket Creation | <img width="1479" height="692" alt="creating ticket " src="https://github.com/user-attachments/assets/990ae23f-8c0a-47f7-a148-84dd9514e60e" />  |
 
-*(Replace placeholders with actual images to make it visually interactive.)*
 
 ---
 
