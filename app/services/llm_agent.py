@@ -29,5 +29,4 @@ class LLMResponder:
         """
 
         response = self.llm.invoke(prompt)
-        print(response)
         return response
