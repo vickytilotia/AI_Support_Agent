@@ -78,7 +78,7 @@ Update Analytics → Prometheus Scrapes → Grafana Visualizes
 
 ---
 
-## 🖼️ Screenshots (Placeholders)
+## 🖼️ Screenshots
 
 | Scenario | Screenshot |
 |----------|------------|
